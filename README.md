@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/41c1c094-89bd-43ae-9483-831f6
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# korat1
